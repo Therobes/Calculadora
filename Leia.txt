@@ -1,0 +1,1 @@
+Para poder utilizar o banco de dados precisa colocar o banco que está logo a baixo (bancocalculadora.fdb) dentro de C:\Sgbr\BancoCalculadora.fdb, caso contrário somente vai habilitar a calculadora em si.
